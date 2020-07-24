@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1595553516868" stop="1595553542007" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : n11_TestAutomationProject</name>
+    <title>Default Suite : n11_TestAutomationProject</title>
+    <test-cases>
+        <test-case start="1595553523641" stop="1595553540972" status="passed">
+            <name>TestCase1</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="n11_TestAutomationProject"/>
+                <label name="testClass" value="LoginPage"/>
+                <label name="testMethod" value="TestCase1"/>
+                <label name="host" value="OLCAY"/>
+                <label name="thread" value="12168@OLCAY.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

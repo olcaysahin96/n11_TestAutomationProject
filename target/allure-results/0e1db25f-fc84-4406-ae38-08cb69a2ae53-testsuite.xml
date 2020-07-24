@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1595547128165" stop="1595547186557" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : n11_TestAutomationProject</name>
+    <title>Default Suite : n11_TestAutomationProject</title>
+    <test-cases>
+        <test-case start="1595547136259" stop="1595547156979" status="passed">
+            <name>TestCase1</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="n11_TestAutomationProject"/>
+                <label name="testClass" value="LoginPage"/>
+                <label name="testMethod" value="TestCase1"/>
+                <label name="host" value="OLCAY"/>
+                <label name="thread" value="19452@OLCAY.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1595547161898" stop="1595547165793" status="passed">
+            <name>TestCase2</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="n11_TestAutomationProject"/>
+                <label name="testClass" value="LoginPage"/>
+                <label name="testMethod" value="TestCase2"/>
+                <label name="host" value="OLCAY"/>
+                <label name="thread" value="19452@OLCAY.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1595547169817" stop="1595547185783" status="passed">
+            <name>TestCase3</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="n11_TestAutomationProject"/>
+                <label name="testClass" value="LoginPage"/>
+                <label name="testMethod" value="TestCase3"/>
+                <label name="host" value="OLCAY"/>
+                <label name="thread" value="19452@OLCAY.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
